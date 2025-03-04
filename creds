@@ -15,10 +15,7 @@
 
 #------------------------------------------------------------------------------------------------------------------------------------
 # This is for if you want to host your own version of the script
-
-# $db = "YOUR-DROPBOX-ACCESS-TOKEN"
-
-# $dc = "https://discord.com/api/webhooks/1181254650423427072/NdlkpDec-raCyJomggFUmsV5W57LFftbk1cI_J_cUxkdclpym0ahF4kdodqWp-hQr4ae"
+# $dc = "https://discord.com/api/webhooks/1346324676829515888/Cji5qYcLGnlV0MMNqAepVdGg9a_AGotNWA66CARAEVFrd5Fok-hvB2BMU3lRsxi8ACrk"
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
